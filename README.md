@@ -21,6 +21,9 @@ Users should be able to:
 - Toggle the color scheme between light and dark mode _(optional)_
 
 ### Screenshots
+![image](https://github.com/d1magine/rest-countries/assets/82451955/39b93f47-dd68-49ef-a1f4-e67611c36339)
+![image](https://github.com/d1magine/rest-countries/assets/82451955/b98e58a7-6b8e-47c1-a6b9-228655bf3f95)
+![image](https://github.com/d1magine/rest-countries/assets/82451955/4aa7d391-5e6b-46f5-a37f-656cc3749abb)
 
 ### Links
 - Solution URL: [GitHub](https://github.com/d1magine/rest-countries)
